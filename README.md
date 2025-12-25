@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pajuraj05@gmail.com**
 
-- 📄 Know about my experiences [https://linktr.ee/miniowitter](https://linktr.ee/miniowitter)
+- 📄 Connect with me on other socials [https://linktr.ee/miniowitter](https://linktr.ee/miniowitter)
 
 - ⚡ Fun fact **I love reading Philosophy :)**
 
