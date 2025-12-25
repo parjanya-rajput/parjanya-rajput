@@ -1,6 +1,6 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://github.com/parjanya-rajput/notes/blob/master/github%20portfolio.png)
 <h1 align="center">Hey there👋, I'm Parjanya Rajput</h1>
-<h3 align="center">A technology enthusiast who's always eager to learn and grow in areas like software development and hardware engineering. Currently I am good at Android Development.</h3>
+<h3 align="center">A technology enthusiast who's always eager to learn and grow in areas like frontend engineering, system design and distributed systems. Apart from my technical skills 1 thing I brag about myself is that I am highly accountable for my work.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/parjanya-rajput?tab=repositories](https://github.com/parjanya-rajput?tab=repositories)
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://linktr.ee/miniowitter](https://linktr.ee/miniowitter)
 
-- ⚡ Fun fact **I am very Philosophical :)**
+- ⚡ Fun fact **I love reading Philosophy :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
